@@ -1,5 +1,4 @@
 import React from 'react'
-import Navi from './Navi'
 import Categories from './Categories'
 import ProductList from '../pages/ProductList'
 import { Grid, GridColumn } from 'semantic-ui-react'
